@@ -52,7 +52,7 @@ Ferramenta de busca de filmes que utiliza a API do TMDB para fornecer informaç�
 - Executar o projeto
     <pre><code>npm run dev</code></pre>
 
- ✔️ **Login: admin  Senha: password
+ ✔️ **Login: admin  Senha: password**
 
 ## 💻 O projeto pode ser vizualizado acessando o seguinte link
 
